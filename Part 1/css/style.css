@@ -1,20 +1,24 @@
 @font-face {
-font-family: Montserrat;
-src: url("../fonts/Montserrat-UltraLight.otf");
+    font-family: Montserrat;
+    src: url("../fonts/Montserrat-UltraLight.otf");
 }
 
 * {
-  font-family: Montserrat;
+    font-family: Montserrat;
 }
 
-#Main-Heading-Div{
-  background-color: white;
-  opacity: 0.75;
-  border-radius: 5px;
-  padding: 10px;
+#Main-Heading-Div {
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 10px;
 }
 
 #intro {
-  background-image: url("../images/intro-background.jpg");
-  background-size: cover;
+    background-image: url("../images/intro-background.jpg");
+    background-size: cover;
+}
+
+#about-us {
+    padding-top: 50px;
 }
