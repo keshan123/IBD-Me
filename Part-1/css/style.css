@@ -1,0 +1,42 @@
+@font-face {
+    font-family: Montserrat;
+    src: url("../fonts/Montserrat-UltraLight.otf");
+}
+
+* {
+    font-family: Montserrat;
+}
+
+#Main-Heading-Div {
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#intro {
+    background-image: url("../images/intro-background.jpg");
+    background-size: cover;
+}
+
+#about {
+    background-image: url("../images/about-background.jpg");
+    background-size: cover;
+}
+
+.about-header {
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#about-us {
+    padding-top: 50px;
+    background-color: white;
+    opacity: 0;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px;
+    width: 30.5%;
+}
